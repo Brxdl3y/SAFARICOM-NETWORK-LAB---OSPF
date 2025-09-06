@@ -57,7 +57,7 @@ Design Objectives
 ---
 
 
-## 🌟 Why This Project Stands Out
+##  Why This Project Stands Out
 
 Unlike a basic Packet Tracer lab, this project integrates **advanced enterprise features**:  
 
