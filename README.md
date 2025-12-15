@@ -7,7 +7,7 @@ This project is a **simulation of Safaricom’s enterprise-wide network infrastr
 The design showcases my ability to apply **industry-standard practices** in enterprise networking, including secure dynamic routing, VLAN segmentation, subnetting, and device hardening.  
 
 
-Design Objectives
+**Design Objectives**
 
 - Build a **scalable, secure, and resilient enterprise network**.
 - Demonstrate **pragmatic engineering choices** through OSPF, VLANs, and authentication.  
@@ -67,7 +67,7 @@ Unlike a basic Packet Tracer lab, this project integrates **advanced enterprise 
 - Device hardening (SSH, banners, passwords).  
 
 
-> ⚡ The goal was not just to “make it work” — but to **mirror how a real ISP like "Safaricom" would deploy, document, and secure their network**. This reflects my **pragmatism, attention to detail, and readiness for real-world roles**.
+>  The goal was not just to “make it work” — but to **mirror how a real ISP like "Safaricom" would deploy, document, and secure their network**. This reflects my **pragmatism, attention to detail, and readiness for real-world roles**.
 
 ---
 
