@@ -15,7 +15,7 @@ The design showcases my ability to apply **industry-standard practices** in ente
 - Maintain clear documentation to reflect professionalism and real workplace deliverables.  
 
 
- Features Implemented
+ **Features Implemented**
 
 ### Routing & Addressing 
 - **OSPFv2 (Open Shortest Path First)**  
@@ -71,7 +71,8 @@ Unlike a basic Packet Tracer lab, this project integrates **advanced enterprise 
 
 ---
 
- Future Improvements
+ **Future Improvements**
+ 
 - Redundancy with **HSRP/VRRP** for gateway failover.  
 - QoS for **voice/video prioritization** in Call Centers.  
 - **Access Control Lists (ACLs)** for traffic filtering.  
